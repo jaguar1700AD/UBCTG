@@ -1,0 +1,4 @@
+Last Price, Volume
+Monthly, 31st Jan 1975 onwards
+Most columns N/A until 6/30/1997
+All columns full from 2/29/2008

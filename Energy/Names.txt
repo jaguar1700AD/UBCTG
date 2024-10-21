@@ -1,0 +1,3 @@
+Generic 1st Crude Oil, WTI (NYM)
+Generic 1st Natural Gas (NYM)
+Generic 1st Coal, Newcastle  Monthly (ICE)

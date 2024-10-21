@@ -1,0 +1,11 @@
+US PCE Price Index MoM SA
+PCE DEFM Index
+Bureau of Economic Analysis
+12/2011 - 06/2024 -> Monthly
+
+US PPI Final Demand MoM SA
+FDIDFDMO Index
+Bureau of Labour Statistics
+06/2018-06/2024 -> Monthly
+
+SA - Seasonally Adjusted
